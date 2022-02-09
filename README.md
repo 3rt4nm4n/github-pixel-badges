@@ -19,6 +19,10 @@ GitHub padges in pixel art
 
 ![C#](https://user-images.githubusercontent.com/46112568/153165868-e99c1acd-4e6d-4783-b352-bdd95aa2b406.png)
 
+* Java
+
+![Java](https://user-images.githubusercontent.com/46112568/153185087-36d879ac-ef8c-46ed-96f6-f1b1463781d3.png)
+
 * Python
 
 ![Python](https://user-images.githubusercontent.com/46112568/153162318-70e84638-67a3-4d2f-b85b-db45ed5eb358.png)
