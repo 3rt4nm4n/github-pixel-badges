@@ -21,7 +21,7 @@ GitHub padges in pixel art
 
 * Java
 
-![Java](https://user-images.githubusercontent.com/46112568/153185087-36d879ac-ef8c-46ed-96f6-f1b1463781d3.png)
+![153185087-36d879ac-ef8c-46ed-96f6-f1b1463781d3(1)](https://user-images.githubusercontent.com/46112568/160076732-f16be20d-c373-476e-aa40-acf07702e629.png)
 
 * Python
 
